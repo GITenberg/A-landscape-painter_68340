@@ -1,0 +1,36 @@
+_repo: A-landscape-painter_68340
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Mordell, Albert
+    birthdate: 1885
+    deathdate: 1965
+    gutenberg_agent_id: '37572'
+    url: http://www.gutenberg.org/2009/agents/37572
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: https://en.wikipedia.org/wiki/Henry_James
+description: ''
+gutenberg_issued: '2022-06-17'
+identifiers:
+  gutenberg: '68340'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/000481954
+pgterms:marc905: 20220518061102james
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: United States :Scott and Seltzer,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A landscape painter
+url: http://www.gutenberg.org/ebooks/68340
