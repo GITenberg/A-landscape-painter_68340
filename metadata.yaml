@@ -7,6 +7,9 @@ contributor:
     deathdate: 1965
     gutenberg_agent_id: '37572'
     url: http://www.gutenberg.org/2009/agents/37572
+covers:
+- cover_type: archival
+  image_path: 68340-h/images/landscape_cover.jpg
 creator:
   author:
     agent_name: James, Henry
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/113
     wikipedia: https://en.wikipedia.org/wiki/Henry_James
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68340#A-landscape-painter
 gutenberg_issued: '2022-06-17'
 identifiers:
   gutenberg: '68340'
